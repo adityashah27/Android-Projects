@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/schedule"
+            android:title="Wedding Events"
+            android:icon="@drawable/schedule"/>
+        <item
+            android:id="@+id/family_tree"
+            android:title="Family Tree"
+            android:icon="@drawable/family_tree"/>
+<!--        <item
+            android:id="@+id/past_events"
+            android:title="Past Events"
+            android:icon="@drawable/past_events"/>-->
+
+        <item
+            android:id="@+id/contact"
+            android:title="Contact Info"
+            android:icon="@drawable/contact"/>
+        <item
+            android:id="@+id/push_notification"
+            android:title="Push Notification"
+            android:icon="@drawable/push_notification"/>
+     <!--   <item
+            android:id="@+id/photo_upload"
+            android:title="Share on Facebook"
+            android:icon="@drawable/photo_upload"/>
+        <item
+            android:id="@+id/places_to_visit"
+            android:title="Places to Visit"
+            android:icon="@drawable/places_to_visit"/>
+        <item
+            android:id="@+id/climate"
+            android:title="Climate"
+            android:icon="@drawable/climate"/>
+        <item
+            android:id="@+id/send_wishes"
+            android:title="Send Wishes"
+            android:icon="@drawable/send_wishes"/>
+        <item
+            android:id="@+id/significance"
+            android:title="Significance"
+            android:icon="@drawable/black_icon"/>-->
+        <item
+            android:id="@+id/exit"
+            android:title="Exit"
+            android:icon="@drawable/exit"/>
+
+
+    </group>
+</menu>

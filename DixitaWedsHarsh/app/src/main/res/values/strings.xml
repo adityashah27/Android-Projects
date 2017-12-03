@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Dixita Weds Harsh</string>
+    <string name="schedule">Wedding Schedule</string>
+    <string name="family_tree">Family Tree</string>
+    <string name="contact_info">Contact Information</string>
+    <string name="climate">Climate Details</string>
+    <string name="backdrop_climate">Climate Advise for our Guests</string>
+    <string name="send_wishes">Send Wishes</string>
+    <string name="backdrop_send_wishes">Blessings to the Couple</string>
+    <string name="upload_photos">Upload Photos</string>
+    <string name="gallery">Gallery</string>
+    <string name="places_to_visit">Places to Visit</string>
+    <string name="backdrop_places">Visit Famous Places in Kochi</string>
+    <!--<string name="af">Athirappilly falls</string>
+    <string name="ch">Cherai Beach</string>
+    <string name="fk">Fort Kochi</string>
+    <string name="mt">Mattancherry</string>
+    <string name="af_1">Athirappilly Falls is situated on the border of Athirappilly panchayath, Chalakudy Taluk of Thrissur district and Ayyampuzha panchayath, Aluva Taluk of Ernakulam district, Kerala on the southwest coast of India.
+\nHeight: 25 m
+\nNumber of drops: 4</string>
+    <string name="ch_1">Cherai Beach is located in Kochi Taluk, Kerala, India. Cherai Beach is just 25 km from Kochi, and 30 km from Cochin International Airport. The nearest towns are North Paravur and Kodungallur and the nearest railway station is Aluva.</string>
+    <string name="fk_1">Fort Kochi is a region in the city of Kochi in the state of Kerala, India. This is part of a handful of water-bound regions toward the south-west of the mainland Kochi, and collectively known as Old Kochi or West Kochi.</string>
+    <string name="mt_1">Mattancherry is a locality in the city of Kochi, India. It is said that the cheri full of mutton butchers gradually became muttoncheri which is spelled now as mattancherry.</string>
+    -->
+    <string name="wedding_day">Wedding Day</string>
+    <string name="schedule_24">Wedding Schedule 24th, Feb 17</string>
+    <string name="schedule_25">Wedding Schedule 25th, Feb 17</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_settings">Settings</string>
+    <string name="countdown">The New Journey Begins in</string>
+    <string name="countdownleft">till Wedding to Began!</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="backdrop_title">Wedding Day Schedule</string>
+    <string name="backdrop_subtitle_g">Thursday, 30th November, 2017</string>
+    <string name="backdrop_subtitle_b">Sunday, 26th February, 2017 Bride</string>
+    <string name="backdrop_title_b">Wedding Events Bride</string>
+    <string name="backdrop_title_g">Wedding Events Groom</string>
+    <string name="backdrop_subtitle_25">Saturday, 25th February, 2017 Groom</string>
+    <string name="backdrop_subtitle_24">Friday, 24th February, 2017 Bride</string>
+
+    <string name="climate_details">It\'s always sunny in Kalamasserry.</string>
+    <string name="significance">Logo Meaning</string>
+    <string name="sof">Share on Facebook</string>
+    <string name="sof_1">Want to be part of the special occasion, then press the button below and start sharing your experience.</string>
+    <string name="significance_1">In the journey of life you come across someone who stays, someone who becomes your meaning and the answer to life\'s most persistent problems. When a scientist met a marine, God was happy and he knew that what he couldn\'t define, they would.</string>
+    <string name="past_events">Engagement</string>
+    <string name="past_events_1">Committing our hearts is the most beautiful feeling in the world. People often look for reasons to get engaged. We found comfort in each other\'s arms and cheer to be husband and wife as we take our vows soon with the blessing of the almighty. For the tree of a happy married life our engagement is the first seed. Union of two hearts.</string>
+    <string name="backdrop_past_events">Saturday, 31st December, 2016</string>
+
+
+
+    <string name="birth_g"><b>Harsh</b>\n27th Februray, 1991 Mumbai</string>
+    <string name="birth_b"><b>Dixita</b>\n11th May, 1991 Mumbai</string>
+
+    <string name="school_g"><b>Harsh</b>\n 1998&#8211;2007 St. Joseph School</string>
+    <string name="school_b"><b>Dixita</b>\n1998&#8211;2007 Infant Jesus School</string>
+
+    <string name="college_g"><b>Harsh</b>\n2007&#8211;2011 Ritumbara College</string>
+    <string name="college_b"><b>Dixita</b>\n2007&#8211;2011 Nagindas Khandwala</string>
+
+    <string name="current_g"><b>Harsh</b>\nMD in Real Plastic Company Limited</string>
+    <string name="current_b"><b>Dixita</b>\nSenior Manager at Screen Facts</string>
+
+    <string name="interest_g"><b>Harsh</b>\nTravelling, Music and Reading.</string>
+    <string name="interest_b"><b>Dixita</b>\nTravelling, reading, partying and listening to  music.</string>
+
+    <string name="personality_g"><b>Harsh</b>\nA package of smart, witty and warm, Harsh is the ideal husband material. His smile brightens up a room and his infectious hugs magically make things better. It isn\'t a surprise then that Harsh is often referred to as the \'friend magnet\'. A man filled with knowledge so deep, he could strike a conversation with almost anyone. What makes Harsh complete is his faith and devotion to his God and his family, which is a quality rare to find. </string>
+    <string name="personality_b"><b>Dixita</b>\nDixita is a mix of poise and elegance. She is beautiful, subtly bold and sweetly docile. She absorbs the heat around her and make us feel like world is still a stable and good place.  A shy singer, passionate researcher.....she has some magic up her sleeves. A wonderful daughter and sister, she is now up for exciting innings as a wife. We wish her very best in the new journey.</string>
+
+    <string name="elder_g">Message from Elders: \n\nMarriage is the alliance of togetherness of two bodies mind and soul.</string>
+
+<string name="climate_24">Friday, 24th February, 2017\n\nApproximate temperature would be 35\u00B0 during the day and 24\u00B0 in the night. </string>
+    <string name="climate_25">Saturday, 25th February, 2017\n\nApproximate temperature would be 36\u00B0 during the day and 23\u00B0 in the night. </string>
+    <string name="climate_26">Sunday, 26th February, 2017\n\nApproximate temperature would be 35\u00B0 during the day and 24\u00B0 in the night. </string>
+    <string name="climate_27">Friday, 27th February, 2017\n\nApproximate temperature would be 35\u00B0 during the day and 24\u00B0 in the night. </string>
+
+
+    <!--<string name="love_g"><b>Nishith</b>\nAn offbeat arranged cum love marriage. Our parents had allowed to meet each other without any formal meeting. I had just arrived from Rome after training and had relocated to Mumbai for work, she was in the last phase of completing her PHD in Space science. It was so meticulously planned that my first date started with the Blessing of the almighty. I had to meet her after the morning 09.00 am mass on 10th july at Panvel. I was so eager to meet a mallu girl, who had left her family and most important Kerala to follow her dreams. She was a stallion beauty dressed in black and her wits of a mature woman had already impressed me. I took her to McDonald\'s to have a regular chat and to introduce myself. She had quietly heard all my views, aspirations and career goals with just a sip of coffee.  For me Neethal resembles my mom\'s beauty, my dad\’s intelligence and the most important the brother\'s charismatic thinking towards life.</string>
+    <string name="love_b"><b>Neethal</b>\nI met Nishu for the first time after a morning Sunday mass in Mumbai. It was an unofficial meeting where we could spend enough time to sit and talk to each other over a cup of coffee. Nishu is a very jovial person and my meetings with him were always plesant as I never realized how time passed by talking to him. Listening to him I could feel that he is looking for someone who has her own dreams and passions in life, which really impressed me. More importantly over past few months I was realizing that he wants me to be what I am which made me more comfortable and feel natural being with him. Remembering a famous quote from  \'The Alchemist\', I must say \'I feel the entire universe conspired to help me find you\'.</string>
+-->
+    <string name="vow_g"><b>Harsh</b>\nI would like to see her blossom in her career and family life. Every phase of her memory should be enlightened with the presence of near and dear ones. Dream of coming back to our home town after experiencing the world is my final goal in life. A journey of a thousand miles starts with a single step. I vow to lead her with love and happiness. There is old sailors saying \'A ship in harbor is safe, but that is not what ships are built for\'. Life is unpredictable. I feel confident that you will be a part in our sadness, sacrifices, downfalls and hard time</string>
+<string name="vow_b"><b>Dixita</b>\nI Vow to walk with you in all thick and thins of life and to back you in your personal and professional life. I simply want to see you happy and embrace each moment of life with you.</string>
+
+</resources>

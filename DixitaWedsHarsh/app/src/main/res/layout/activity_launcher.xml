@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.dixitawedsharsh.Launcher"
+    android:id="@+id/mainlayout"
+    android:background="@drawable/background"
+    android:onClick="clickany" >
+
+
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="320dp"
+        android:layout_height="320dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/logo"
+        />
+    <!--<ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="370dp"
+        android:layout_height="470dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/savethedate"
+        />
+-->
+</RelativeLayout>

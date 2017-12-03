@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:baselineAligned="false"
+android:orientation="vertical"
+android:background="@drawable/background"
+
+    >
+
+
+
+        <TextView android:id="@+id/Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:text="Groom Contact Info" />
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="50dp"
+    >
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fitsSystemWindows="true">
+
+        <LinearLayout
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="24dp"
+            android:paddingLeft="24dp"
+            android:paddingRight="24dp">
+
+
+
+
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
+                android:background="@drawable/layout"
+                >
+
+                <TextView
+                    android:id="@+id/textview_11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:textColor="@color/colorText"
+                    android:textSize="26sp"
+                    android:textStyle="bold"
+                    android:text="Ashok Dhabalia"/>
+
+                <TextView
+                    android:id="@+id/textview_14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_below="@+id/textview_11"
+                    android:textColor="@color/colorText"
+                    android:textColorLink="@color/colorText"
+                    android:textSize="20sp"
+                    android:autoLink="phone"
+                    android:text="+919820073586"
+                    />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
+                android:background="@drawable/layout"
+                >
+
+                <TextView
+                    android:id="@+id/textview_21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:textColor="@color/colorText"
+                    android:textSize="26sp"
+                    android:textStyle="bold"
+                    android:text="Dipti Dhabalia"/>
+
+                <TextView
+                    android:id="@+id/textview_24"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_below="@+id/textview_21"
+                    android:textColor="@color/colorText"
+                    android:textColorLink="@color/colorText"
+                    android:textSize="20sp"
+                    android:autoLink="phone"
+                    android:text="+919029231552"
+
+                    />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
+                android:background="@drawable/layout"
+                >
+
+                <TextView
+                    android:id="@+id/textview_31"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:textColor="@color/colorText"
+                    android:textSize="26sp"
+                    android:textStyle="bold"
+                    android:text="Heth"/>
+
+                <TextView
+                    android:id="@+id/textview_34"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_below="@+id/textview_31"
+                    android:textColor="@color/colorText"
+                    android:textColorLink="@color/colorText"
+                    android:textSize="20sp"
+                    android:autoLink="phone"
+                    android:text="+919920533808"
+
+                    />
+            </RelativeLayout>
+
+
+           <!-- <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
+                android:background="@drawable/layout"
+                >
+
+                <TextView
+                    android:id="@+id/textview_41"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:textColor="@color/colorText"
+                    android:textSize="26sp"
+                    android:textStyle="bold"
+                    android:text="Cyril"/>
+
+                <TextView
+                    android:id="@+id/textview_44"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_below="@+id/textview_41"
+                    android:textColor="@color/colorText"
+                    android:textColorLink="@color/colorText"
+                    android:textSize="20sp"
+                    android:autoLink="phone"
+                    android:text="+919846669161"
+
+                    />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
+                android:background="@drawable/layout"
+                >
+
+                <TextView
+                    android:id="@+id/textview_51"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:textColor="@color/colorText"
+                    android:textSize="26sp"
+                    android:textStyle="bold"
+                    android:text="Boney"/>
+
+                <TextView
+                    android:id="@+id/textview_54"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_below="@+id/textview_51"
+                    android:textColor="@color/colorText"
+                    android:textColorLink="@color/colorText"
+                    android:textSize="20sp"
+                    android:autoLink="phone"
+                    android:text="+919747000797"
+
+                    />
+            </RelativeLayout>-->
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+
+                android:background="@drawable/layout">
+
+                <TextView
+                    android:id="@+id/textview_61"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:textColor="@color/colorText"
+                    android:textSize="26sp"
+                    android:textStyle="bold"
+                    android:text="Residentail Address"/>
+
+
+                <TextView
+                    android:id="@+id/textview_63"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_below="@+id/textview_61"
+                    android:textColor="@color/colorText"
+                    android:textSize="18sp"
+                    android:text="Venue:"/>
+                <TextView
+                    android:id="@+id/textview_64"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_toRightOf="@+id/textview_63"
+                    android:layout_marginLeft="5dp"
+                    android:layout_below="@+id/textview_61"
+                    android:textColor="@color/colorText"
+                    android:textSize="20sp"
+
+                    android:textColorLink="@color/colorText"
+                    />
+                <TextView
+                    android:id="@+id/textview_62"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_below="@+id/textview_64"
+                    android:textColor="@color/colorText"
+                    android:textColorLink="@color/colorText"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:autoLink="phone"
+                    android:text="+912240027587"/>
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>
+
+</RelativeLayout>
+
+
