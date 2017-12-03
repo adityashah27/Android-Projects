@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         mFragmentTransaction.replace(R.id.containerView,new Tab_Layout()).commit();
         /**
          * Setup click events on the Navigation View Items.
+         * Update for git
          */
 
         mNavigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
